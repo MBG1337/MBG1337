@@ -1,3 +1,5 @@
+## About me
+Hey, im MBG, also known as Ojas. I am an enthisuastic developer working on multiple projects with the biggest project being [flarial](https://flarial.xyz). You can contact me using any of my socials mentioned below.
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MineCube18) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCF1UC4yUgdf9RgV27ZT9GXQ?style=social)
 
