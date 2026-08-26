@@ -58,9 +58,7 @@ Building high-performance client modifications, web tools, and modern desktop ap
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MBG1337&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=MBG1337&theme=monokai&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MBG1337&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=mbg1337)
 
 ###  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MBG1337&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
